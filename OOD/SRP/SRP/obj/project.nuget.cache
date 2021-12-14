@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v4rW1rCDffJgQJDWbLbaYeqhLsNgV2FJpUnMC0GVDJEeXKl2KOXUOvEn0KlGiKHDqeKAw0bRBG3BjMyZtDCWNQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fargi\\OneDrive\\Documents\\Adnan\\SoftwareArchitecture\\DesignPatterns\\OOD\\SRP\\SRP\\SRP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fargi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
