@@ -34,12 +34,12 @@ namespace SRP
 
         public void ReceiveMessageFromServer()
         {
-            //
+            Console.WriteLine("Receiving message from server...");
         }
 
         public void LogMessage()
         {
-            //
+            Console.WriteLine("Logging error message...");
         }
 
     }
