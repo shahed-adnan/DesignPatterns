@@ -14,17 +14,22 @@ namespace SRP
 
         public void ReadData()
         {
-            //
+            var info = new { CustomerId=111,
+                                    CustomerName="Tom",
+                                    DeviceLocation="Zurich",
+                                    CustomerNationality="Bangladeshi"
+                                  };
+            
         }
 
-        public void ProcessData()
+        public void WriteData()
         {
-            //
+            Console.WriteLine("Printing Device info...");
         }
 
         public void SendMessageToServer()
         {
-            //
+            Console.WriteLine("Sending customer transaction history to server...");
         }
 
         public void ReceiveMessageFromServer()
